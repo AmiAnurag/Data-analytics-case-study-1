@@ -1,7 +1,7 @@
 # Data-analytics-case-study-1
 ### Analysis case study on odi series data in year 2018 
 ![analyticsProject1](https://user-images.githubusercontent.com/76867868/133931749-91e1256a-7cee-4a66-a6f4-c736ff6f1dfc.PNG)
-#### The following analysis will be discussed :
+#### The following analysis is discussed here https://github.com/AmiAnurag/Data-analytics-case-study-1/blob/main/Data_analytics_case_study_1.ipynb:
 1. Transform the margin column into two different columns - one for runs and another for wicket
 2. Which country played the most odi in 2018?
 3. How was the performance of Srilanka?
